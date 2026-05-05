@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 
 # ==================== CONFIGURATION ====================
 DEFAULT_MAIN_BOT_TOKEN = "7883509707:AAGnaQFs07hXjX6-1MrU8IRaDZXQSb-Gd-w"
-DEFAULT_ADMIN_BOT_TOKEN = "8353268447:AAEFfkkubAfWldYfUdOSE7sHrK2taZl_YXs"
+DEFAULT_ADMIN_BOT_TOKEN = "8487844829:AAF2PkasRCK3lezen_T6rE_lCskks9Jh3-A"
 OWNER_ID = 8458169644
 
 # Default Settings
